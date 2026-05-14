@@ -14,3 +14,4 @@ soniox>=2.2.0
 httpx>=0.28.0
 edge-tts
 langdetect
+psycopg2-binary
