@@ -17,3 +17,5 @@ langdetect
 psycopg2-binary
 pydantic-settings
 python-multipart
+uvicorn
+gunicorn
