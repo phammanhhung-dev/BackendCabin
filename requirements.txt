@@ -9,6 +9,7 @@ requests
 gunicorn
 python-jose
 passlib[bcrypt]
+bcrypt==3.2.0
 alembic
 soniox>=2.2.0
 httpx>=0.28.0
