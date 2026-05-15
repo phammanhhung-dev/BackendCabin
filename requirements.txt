@@ -17,5 +17,6 @@ langdetect
 psycopg2-binary
 pydantic-settings
 python-multipart
+email-validator
 uvicorn
 gunicorn
