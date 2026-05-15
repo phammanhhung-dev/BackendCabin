@@ -16,3 +16,4 @@ edge-tts
 langdetect
 psycopg2-binary
 pydantic-settings
+python-multipart
